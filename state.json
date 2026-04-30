@@ -1,1 +1,4 @@
-{"_test_integ": true, "marker": "integ-1777582893"}
+{
+  "_note": "Backup pipeline tests completed. Real bot state will appear here on the first wallet/label change.",
+  "_test_completed_utc": "2026-04-30T21:01:36Z"
+}
